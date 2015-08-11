@@ -168,10 +168,10 @@ body {
 }
 
 .bubble.ball1 {
-    -webkit-animation: topBottom 10s linear infinite, 8s linear leftRight infinite;
-    -moz-animation: topBottom 10s linear infinite, 8s linear leftRight infinite;
-    -o-animation: topBottom 10s linear infinite, 8s linear leftRight infinite;
-    animation: topBottom 10s linear infinite, 8s linear leftRight infinite;
+    -webkit-animation: topBottom 10s linear infinite, leftRight 8s linear infinite;
+    -moz-animation: topBottom 10s linear infinite, leftRight 8s linear  infinite;
+    -o-animation: topBottom 10s linear infinite, leftRight 8s linear  infinite;
+    animation: topBottom 10s linear infinite, leftRight 8s linear  infinite;
 }
 
 .bubble.ball2 {
